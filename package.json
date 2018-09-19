@@ -1,12 +1,12 @@
 {
-  "name": "dashboard",
+  "name": "hyperspace",
   "version": "1.0.0",
-  "description": "Bootstrap 4 workflow",
+  "description": "hyperspace",
   "main": "index.js",
   "scripts": {
     "start": "gulp"
   },
-  "author": "Brad Traversy",
+  "author": "Mohamed Fawzy",
   "license": "MIT",
   "dependencies": {
     "font-awesome": "^4.7.0"
